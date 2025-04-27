@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4F2E91&height=180&section=header&text=Hi!%20I'm%20Dilara%20👾&fontSize=48&fontColor=ffffff" alt="wave banner"/>
-</div>
-
-  <h2><strong>42 Student</strong></h2>
-  <img src="https://komarev.com/ghpvc/?username=dubu13&color=blueviolet">
+  <h3 style="color:#4F2E91;font-weight:bold;">Student at 42</h3>
 </div>
 
 ---
