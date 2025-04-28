@@ -3,19 +3,18 @@
 </div>
 
 ---
-
-## 🚩 Current Project: <a href="https://github.com/dubu13/webserv">webserv</a>
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/dubu13/webserv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dubu13&repo=webserv&theme=algolia" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dubu13&show_icons=true&count_private=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubu13&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-**webserv** is an HTTP server implemented in C++ as part of the 42 curriculum.  
-> 🛠️ Learning: Network programming, socket API, HTTP protocol, event-driven architecture, and C++ STL.
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dubu13&color=4F2E91" alt="Profile Views" />
+</p>
 ---
+
 
 ## ⚒️ Technologies
 
@@ -29,23 +28,23 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dubu13&show_icons=true&count_private=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubu13&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dubu13&color=4F2E91" alt="Profile Views" />
-</p>
----
-
 ## 🌱 What I'm Working On
 
 - 🕸️ Designing and optimizing an HTTP server from scratch
 - 🌍 Learning deep system concepts via real-world code
 - 💭 Always open for discussions, feedback, or collaboration!
+
+---
+## 🚩 Current Project: <a href="https://github.com/dubu13/webserv">webserv</a>
+
+<p align="center">
+  <a href="https://github.com/dubu13/webserv">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dubu13&repo=webserv&theme=algolia" />
+  </a>
+</p>
+
+**webserv** is an HTTP server implemented in C++ as part of the 42 curriculum.  
+> 🛠️ Learning: Network programming, socket API, HTTP protocol, event-driven architecture, and C++ STL.
 
 ---
 
